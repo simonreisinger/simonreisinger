@@ -55,4 +55,3 @@
 
 ## Let's Connect
 - 💼 LinkedIn: [linkedin.com/in/simonreisinger](https://www.linkedin.com/in/simonreisinger)
-- 💬 Open to collaborating on visualization, CV/ML, or creative coding projects—feel free to open an issue or ping me on LinkedIn!
