@@ -29,13 +29,29 @@
 - **Platforms & Tools:** Android Studio, IntelliJ, PyCharm, Git, GitHub, Bash scripting.
 
 ## Stats & Activity
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simonreisinger&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats for Simon Reisinger" height="165">
   <img src="https://streak-stats.demolab.com?user=simonreisinger&theme=transparent&hide_border=true" alt="GitHub streak for Simon Reisinger" height="165">
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonreisinger&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages" height="165">
-</div>
+
+- **Public repositories:** 17
+- **Total stars earned:** 14
+- **Followers / Following:** 4 / 3
+- **Most-starred project:** [Interactive-3D-Human-Heart-Visualization](https://github.com/simonreisinger/Interactive-3D-Human-Heart-Visualization) with 9 ⭐
+
+## Top Languages
+| Language | Repository count |
+| --- | --- |
+| C++ | 4 |
+| JavaScript | 3 |
+| Java | 2 |
+| MATLAB | 2 |
+| C | 1 |
+| HTML | 1 |
+| Python | 1 |
+| Jupyter Notebook | 1 |
+
+*Counts generated via the public GitHub API (Jan 2025).*
 
 ## Let's Connect
 - 💼 LinkedIn: [linkedin.com/in/simonreisinger](https://www.linkedin.com/in/simonreisinger)
