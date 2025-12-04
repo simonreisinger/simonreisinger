@@ -11,7 +11,6 @@
 - 🫀 Crafting interactive visuals like [Interactive-3D-Human-Heart-Visualization](https://github.com/simonreisinger/Interactive-3D-Human-Heart-Visualization) (9⭐) and [Visualize_of_Austrian_Election_Results](https://github.com/simonreisinger/Visualize_of_Austrian_Election_Results).
 - 🧠 Exploring computer vision through [Counting-Jumping-Jacks](https://github.com/simonreisinger/Counting-Jumping-Jacks), [Plate-Detection](https://github.com/simonreisinger/Plate-Detection), and gesture-recognition experiments.
 - 🎮 Prototyping games including [Ballonbote](https://github.com/simonreisinger/Ballonbote), [Balloon_Race_3D](https://github.com/simonreisinger/Balloon_Race_3D), and [HauntedCastle](https://github.com/simonreisinger/HauntedCastle).
-- 📊 Turning public data into maps and reusable datasets via [travellog](https://github.com/simonreisinger/travellog) and [Nationalratswahl-Austria-Ergebnisse](https://github.com/simonreisinger/Nationalratswahl-Austria-Ergebnisse).
 
 ## Featured Projects
 | Project | Tech | What it does |
