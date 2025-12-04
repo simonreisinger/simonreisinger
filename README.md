@@ -52,6 +52,3 @@
 | Jupyter Notebook | 1 |
 
 *Counts generated via the public GitHub API (Jan 2025).*
-
-## Let's Connect
-- 💼 LinkedIn: [linkedin.com/in/simonreisinger](https://www.linkedin.com/in/simonreisinger)
