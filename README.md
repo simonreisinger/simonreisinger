@@ -41,13 +41,11 @@
 ## Top Languages
 | Language | Repository count |
 | --- | --- |
-| C++ | 4 |
-| JavaScript | 3 |
-| Java | 2 |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | 4 |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | 4 |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | 2 |
+| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 1 |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 2 |
 | MATLAB | 2 |
-| C | 1 |
-| HTML | 1 |
-| Python | 1 |
-| Jupyter Notebook | 1 |
 
 *Counts generated via the public GitHub API (Jan 2025).*
